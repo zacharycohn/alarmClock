@@ -370,7 +370,7 @@ def triggerSonos():
 
 	alarmActive = True
 
-	vol = 5
+	vol = 1
 	speaker.volume = vol 
 
 	speaker.play_uri(songURL)
